@@ -1,4 +1,6 @@
-My homepage created using GitHub Pages and Jekyll. Handy documentation for me:
+My homepage created using GitHub Pages and Jekyll to be hosted at http://matt-hickford.github.com
+
+Handy GitHub Pages documentation for me:
 
  * http://pages.github.com/
  * https://github.com/mojombo/jekyll/blob/master/README.textile
