@@ -1,0 +1,9 @@
+---
+layout: post
+title: Google Code Jam
+---
+This year I competed again in Google Code Jam, a mathematics and algorithms competition. I finished ranking 930, winning a t-shirt. Thanks Google!
+
+This was my favourite problem to solve http://code.google.com/codejam/contest/dashboard?c=1150486#s=p2
+
+Here are my solutions https://github.com/matt-hickford/codejam
