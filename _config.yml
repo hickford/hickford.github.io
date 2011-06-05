@@ -1,4 +1,5 @@
-markdown: redcarpet
+markdown: maruku
+# markdown: redcarpet
 
 redcarpet:
     extensions: [autolink]
