@@ -1,5 +1,6 @@
 ---
 layout: post
 title: First post
+comments: false
 ---
 Hello. I intend to move at least everything from http://www.srcf.ucam.org/~mh519/ to here, and post some other thoughts too.

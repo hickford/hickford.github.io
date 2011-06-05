@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Code Jam
+comments: true
 ---
 This year I competed again in Google Code Jam, a mathematics and algorithms competition. I finished ranking 930, winning a t-shirt. Thanks Google!
 
