@@ -1,0 +1,42 @@
+<html> 
+<head><title>Chrome tab focus bug</title></head>
+<body>
+<h1>Chrome tab focus bugs</h1>
+
+<p>Here is an example of a couple of very frustrating bugs in current [2011] versions of Google Chrome. The two links in the list below (to the websites of competing browsers Firefox and Opera) share a common named target (see the source)</p>
+
+<p>First bug. Middle-click either link. It opens in the foreground, rather than the background as expected (compare with the standard links further below if you like). This is <a href="http://code.google.com/p/chromium/issues/detail?id=62319">Bug 62319</a> in the Chrome bug tracker which has been confirmed by a Chrome developer but there is no progress towards fixing it.</p>
+
+<p>Second bug (read all the instructions first). Middle-click the first link (Firefox), the new tab is focussed (bug above). Leave the tab open and switch back to this page. Middle-click the second link (Opera). Spuriously, the <i>Firefox</i> tab is focussed! This is <a href="http://code.google.com/p/chromium/issues/detail?id=84514">bug 84514</a> on the Chrome bug tracker and has yet to receive any developer attention.</p>
+
+<ol>
+<li><a href="http://firefox.com" target="x">Firefox</a></li>
+<li><a href="http://opera.com" target="x">Opera</a></li>
+</ol>
+
+<p>If you observe these bugs, I implore you to visit the bugs on the Chrome bug tracker and star them to raise their profile. You'll be asked to sign into a Google account.</p>
+
+<h2>Progress towards fixing the bugs</h2>
+
+<p>The chrome devs are unsure if the bug is in Chrome or WebKit. A WebKit developer cannot observe the bug in Safari. <a href="https://bugs.webkit.org/show_bug.cgi?id=61167">Webkit bug 61167</a>.</p>
+
+<h2>Standard links for comparison</h2>
+<ul>
+<li><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home">Internet Explorer</a></li>
+<li><a href="http://lynx.isc.org/">Lynx</a></li>
+</ul>
+
+<p>Middle clicking on these links opens the tabs in the background, as expected. Lynx has no middle-clicking bugs.</p>
+
+<h2>HTML source code</h2>
+
+<textarea cols="80" rows="6">
+<ol>
+<li><a href="http://firefox.com" target="x">Firefox</a></li>
+<li><a href="http://opera.com" target="x">Opera</a></li>
+</ol>
+</textarea>
+
+ </body>
+ 
+ </html>
