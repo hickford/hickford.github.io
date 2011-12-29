@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: STEP Mathematics papers
 comments: true
+category: maths
 ---
 
 # {{page.title}}
