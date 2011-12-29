@@ -27,3 +27,9 @@ Here are some examples of the word 'hack' to mean 'to modify for a purpose not i
 At MIT the word 'hack' as long been used to describe students practical jokes, from launching weather balloons during a football game with their rival Harvard, to this [upside down living room](http://www.flickr.com/photos/xxv/sets/72157623681060395/) (with working lamp) on a gate   At Cambridge, perhaps the drinking culture stifles creativity.
 
 The word 'hack' can also mean a solution to a problem. There are elegant hacks, and ugly hacks (these ones might involve lots of duct tape). 
+
+* * *
+
+My Dad wrote back
+
+> thank you, I see it has another meaning to that I understood.  I think it is a word open to misinterpretation, so use with care!
