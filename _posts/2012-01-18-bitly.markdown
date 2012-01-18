@@ -1,0 +1,59 @@
+---
+layout: post
+title: URL shorteners
+comments: true
+category: web
+---
+
+URL shorteners are web services that let you shorten URLs by removing useful information from them. Without visiting the link <http://www.wired.com/threatlevel/2012/01/websites-dark-in-revolt/> you can infer that the page is a news article from the magazine Wired. A shortened URL looks like this <http://tinyurl.com/6wbnhah> and tells you nothing about what content is behind it. 
+
+Here's a wonderful satire <http://www.shadyurl.com/> that outputs such wonderful short URLs as <http://5z8.info/malicious-cookie_d5d2_hateminorities>
+
+Popular URL shorteners include `tinyurl.com` and `bit.ly`. I wrote to Bitly to ask them how long I can trust their service to last:
+
+>Hello Bitly! I'm excited to tell you I just made my first bitly links :) They redirect to some news stories on the BBC's website published in 1997 and 1998:
+>
+> * Clinton impeached  http://bbc.in/k7Kc2I  http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.stm
+> * Taleban in Texas for talks on gas pipeline  http://bbc.in/5UM5z  http://news.bbc.co.uk/1/hi/world/west_asia/37021.stm
+> * 'God of the Internet' is dead  http://bbc.in/kuHjXr  http://news.bbc.co.uk/1/hi/sci/tech/196487.stm
+>
+>Certainly the bitly links are snappy. But I must ask, how long will they last? The BBC have maintained those new stories at those exact URLs for fourteen years. I trust them to maintain their content for at least another fourteen years. Will my bitly links still redirect in 2025?
+>
+>Of course I don't expect bitly to work *forever* (the sun will eventually swallow the Earth, I hear). So what are your expectations? Do you make any commitments to survive to certain dates?
+>
+>Here are some long-lived services. Will bitly live as long as any of them?
+>
+> * Google, a web search engine since 1997
+> * BBC World Service, broadcasting since 1932
+> * The New York Times, published since 1852
+> * The United States Dollar, minted since 1792
+>
+>Both Google and bitly are web services, so I think it's fair to compete.
+>
+>In particular, what happens to my bitly links were your offices to be destroyed in a fire or bitly to go bust? I read in your FAQ that you keep backups, so hopefully the service could be restored after a fire. But were bitly to go bust and the website go offline, what happens? If there were an archive in a library, people could still follow the links. Is anything like that published? Or would everything be lost?
+>
+>Geocities let the content they hosted expire without concern for their users. Fortunately, some content was saved by hobby historians. Will bitly behave better?
+>
+>I look forward to hearing from you :)
+
+Here's the reply from Rex at Bitly.
+
+>Hello Matt,
+>
+>Thanks for asking, and I'll try to keep it brief, and to the point. 
+>
+>Bit.ly will be good forever (or until the sun swallows the earth), with the caveat of the long url you created, in your examples below - the bbc site - keeps their url alive. Bit.ly is simply a 301 permanent redirect. 
+>
+>So if http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.stm continues to be valid and doesn't for example change to http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.html - bit.ly will work. Also, if bbc does a redirect from http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.stm to http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.html - it will continue to work as bit.ly will always go to the long url you created. 
+>
+>Yes, there are backups in place. We don't operate our actual servers out of the office in NYC, we are cloud based. 
+>
+>It is unlikely we will pull a Geocities. There are other safeguards in place. 
+>
+>Hopefully that answers your inquiry below without getting into too much detail. Thanks for asking, and we are always encouraged by people who are enthusiastic about bit.ly as we are!
+>
+>Rex
+
+My reply
+
+> Thanks Rex for your informative reply. Good luck with the enterprise. 
