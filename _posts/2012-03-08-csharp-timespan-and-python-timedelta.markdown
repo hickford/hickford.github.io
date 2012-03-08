@@ -42,7 +42,7 @@ Inspired, and using C# 4’s [optional parameters][3], I wrote the missing metho
  
 Now we can write the instantly readable:
  
-   TimeDelta(hours:1,minutes:30)
+    TimeDelta(hours:1,minutes:30)
  
 That makes me very happy.
  
