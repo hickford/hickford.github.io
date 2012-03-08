@@ -2,7 +2,7 @@
 ================
 
 Email: <matt.hickford@gmail.com>  
-Home address: Cambridge CB4  
+Location: Cambridge, UK  
 Telephone number: On request
 
 Education
