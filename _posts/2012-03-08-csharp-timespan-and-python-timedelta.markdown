@@ -46,6 +46,6 @@ Now we can write the instantly readable:
  
 That makes me very happy.
  
-[1] http://msdn.microsoft.com/en-us/library/system.timespan.aspx
-[2] http://docs.python.org/library/datetime.html#timedelta-objects
-[3] http://msdn.microsoft.com/en-us/library/dd264739.aspx
+[1]: http://msdn.microsoft.com/en-us/library/system.timespan.aspx
+[2]: http://docs.python.org/library/datetime.html#timedelta-objects
+[3]: http://msdn.microsoft.com/en-us/library/dd264739.aspx
