@@ -44,7 +44,7 @@ Now we can write the instantly readable:
  
     TimeDelta(hours:1,minutes:30)
  
-That makes me very happy.
+That makes me very happy. You can copy my code, or clone it from [this gist](https://gist.github.com/2004019).
  
 [1]: http://msdn.microsoft.com/en-us/library/system.timespan.aspx
 [2]: http://docs.python.org/library/datetime.html#timedelta-objects
