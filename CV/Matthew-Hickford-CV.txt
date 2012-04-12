@@ -9,10 +9,10 @@ Education
 ---------
 ### Trinity College, Cambridge University (2007 to 2011)
 
-* Mathematical Tripos Part III,	MMath (2011)
+* Mathematical Tripos Part III, MMath (2011)
 * Mathematical Tripos Part II,  class 2:1. Senior Scholar (2010)
-* Mathematical Tripos Part IB,	1st class. Senior Scholar (2009)
-* Mathematical Tripos Part IA,	1st class. Junior Scholar (2008)
+* Mathematical Tripos Part IB,  1st class. Senior Scholar (2009)
+* Mathematical Tripos Part IA,  1st class. Junior Scholar (2008)
 
 ### John Mason School, Abingdon (2000 to 2007)
 
@@ -26,14 +26,15 @@ Employment
 ----------
 ### Featurespace Ltd (October 2011 to date)
 
-* Analyst Developer at behavioural analytics startup
-* Consulting work developing churn and cross-sell models for retailers
-* Learnt machine learning theory and implemented algorithms in code
-* Scrum master for team of seven
+* Analyst Developer at behavioural analytics startup.
+* Consulting work developing churn and cross-sell models for retailers.
+* Designed, developed and documented software in C#.
+* Learnt machine learning theory and implemented algorithms in code.
+* Scrum master for team of five.
 
 ### Winton Capital Management (4 weeks in 2009 and 6 weeks in 2010)
 
-* Internship and summer work at an algorithmic hedge fund. 
+* Internship and summer work at algorithmic hedge fund. 
 * Analysed historical time series of financial data, learning Winton’s software.
 * Investigation based on reading of macroeconomic theory, using statistics.
 * Tested potential trading systems on past data.
@@ -59,17 +60,17 @@ Additional skills
 ---------------
 ### Programming
 
-* Competed in Google Code Jam—an international programming competition focusing on algorithms—in 2009, 2010 and 2011, this year finishing in the top 10%.
-* Contributed solutions to the mathematical puzzle websites IBM Ponder This and Project Euler.
+* Competed in Google Code Jam—an international programming competition focusing on algorithms—in 2009, 2010 and 2011, most recently finishing in the top 10%.
+* Experience developing in C#, Java and Visual Basic at Featurespace, IBM and Health Projection Agency.
 * Computational mathematics projects in second and third year of degree in Python.
-* Experience developing in Java and Visual Basic at IBM and Health Projection Agency.
 * Created desktop and web applications in Python and Ruby.
+* Contributed solutions to the mathematical puzzle websites IBM Ponder This and Project Euler.
 
 ### Teaching
 
 * Teaching assistant at a Cambridge secondary school (one afternoon per week, Lent term 2011) through Cambridge University’s STIMULUS programme.
 * Volunteered at Cambridge Maths Circle in January 2011, a hands-on maths event for children of all ages.
-* Wrote lecture on combinatorial game theory and delivered it twice in 2011—once as a midnight seminar and once as a Part III seminar.
+* Wrote lecture on combinatorial game theory and delivered it twice in 2011—as a midnight seminar and as a Part III seminar.
 
 ### Duke of Edinburgh's awards
 
