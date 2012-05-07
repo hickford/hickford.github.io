@@ -2,7 +2,7 @@
 layout: post
 title: .NET's TimeSpan and Python's timedelta
 comments: true
-category: programming
+categories: programming csharp
 ---
 
 # {{page.title}}
@@ -35,7 +35,6 @@ Inspired, and using C# 4’s [optional parameters][3], I wrote the missing metho
         // </summary>
         public static TimeSpan TimeDelta(int weeks=0, int days=0, int hours=0, int minutes=0, int seconds=0, int milliseconds=0)
         {
-            // Initializes a new TimeSpan to a specified number of days, hours, minutes, seconds, and milliseconds.
             return new TimeSpan(weeks*7+days,hours,minutes,seconds,milliseconds);
         }
     }
