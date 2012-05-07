@@ -55,4 +55,4 @@ I'm sharing this because there a [few](http://stackoverflow.com/questions/759777
         }
     }
     
-<https://gist.github.com/2277055>
+You can copy my code, or clone it from [this gist](https://gist.github.com/2277055)
