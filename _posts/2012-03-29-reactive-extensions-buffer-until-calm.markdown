@@ -19,7 +19,7 @@ For example, once you have an Observable, that is, a stream of events, you can q
 
 Reactive Extensions with other upcoming [parallel and asynchronous features](http://blogs.msdn.com/b/pfxteam/archive/2011/09/17/10212961.aspx) in the spuriously-versioned .NET framework 4.5. Alas, Reactive Extensions hasn't been adopted widely yet, perhaps only because it isn't understood. The official documentation explains in academic language:
 
-> The IObservable<T> interface is a dual of the familiar IEnumerable<T> interface.
+> The IObservable interface is a dual of the familiar IEnumerable interface.
 
 Regardless, it's great stuff. Here's how I've used Reactive Extensions. I have a tool that watches a folder for new files and emails me about them. It subscribes to filesystem events with a .NET FileSystemWatcher. To save my inbox, I want less than one email per new file, so I'll batch events together. How do I batch them? I could batch events until I reach a limit in number, say into groups of ten, but then it's possible I might not hear about a new file for days. Instead I'll do this - batch events until there's a half hour period of calm, and then send the email. This means the events might even be grouped logically. But I'd best add a numerical limit in case there's no respite in events.
 
