@@ -26,7 +26,7 @@ Employment
 ----------
 ### Featurespace Ltd (October 2011 to date)
 
-* Analyst Developer at behavioural analytics startup.
+* Analyst Developer at predictive analytics startup.
 * Consulting work developing churn and cross-sell models for retailers.
 * Designed, developed and documented software in C#.
 * Learnt machine learning theory and implemented algorithms in code.
@@ -79,7 +79,7 @@ Additional skills
 Activities and interests
 -----------
 * Ballroom dancing since 2010, represented Cambridge University Beginners’ Dancesport Team at competitions in Nottingham and Blackpool.
-* Member of Trinity Mathematical Society—represented undergraduates against teaching staff in games of ‘Call My Bluff’ (2007 & 2009).
+* Member of Trinity Mathematical Society—represented undergraduates against teaching staff in games of _Mathematical Call My Bluff_ (2007 & 2009).
 * Pianist and guitarist.
 
 Referees
