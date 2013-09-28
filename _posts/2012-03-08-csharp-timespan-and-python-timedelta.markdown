@@ -5,8 +5,6 @@ comments: true
 categories: programming csharp
 ---
 
-# {{page.title}}
-
 For a while I’ve been frustrated by .NET’s System.TimeSpan and its incoherent constructors. Without referring to [MSDN][1], can you tell me what these three objects describe?
  
     new TimeSpan(0,0,1)       

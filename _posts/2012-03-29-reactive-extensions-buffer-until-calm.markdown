@@ -5,8 +5,6 @@ comments: true
 categories: programming csharp
 ---
 
-# {{page.title}}
-
 The curiously-named [Reactive Extensions](http://msdn.microsoft.com/en-us/data/gg577609) is a .NET library that lets you work with _streams of events_ as first-class objects.
 
 > The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators. Using Rx, developers represent asynchronous data streams with Observables, query asynchronous data streams using LINQ operators, and parameterize the concurrency in the asynchronous data streams using Schedulers. Simply put, Rx = Observables + LINQ + Schedulers.

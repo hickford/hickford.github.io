@@ -5,8 +5,6 @@ comments: true
 category: letters
 ---
 
-# {{page.title}}
-
 A letter I wrote to radio manufacturer Pure:
 
 * * *
