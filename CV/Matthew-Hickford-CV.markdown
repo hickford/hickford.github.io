@@ -3,28 +3,13 @@
 
 Email: <matt.hickford@gmail.com>  
 Location: Cambridge, UK  
-Telephone number: On request
-
-Education
----------
-### Trinity College, Cambridge University (2007 to 2011)
-
-* Mathematical Tripos Part III, MMath (2011)
-* Mathematical Tripos Part II,  class 2:1. Senior Scholar (2010)
-* Mathematical Tripos Part IB,  1st class. Senior Scholar (2009)
-* Mathematical Tripos Part IA,  1st class. Junior Scholar (2008)
-
-### John Mason School, Abingdon (2000 to 2007)
-
-* Four A-levels grade A in Maths, Further Maths, Physics and Chemistry (2007), and AS-level French grade C (2006)
-* Two S (outstanding) grades in STEP (Sixth-Term Examination Paper) Mathematics II and III (2007)
-* 12 GCSEs achieving 8 grade A* and 4 grade A (2005)
-* 11 gold certificates in UKMT (United Kingdom Mathematical Trust) Maths Challenges (2000-2007), competed in British Mathematical Olympiad
-* Attended by invitation the UKMT National Mathematics Summer School at Queen’s College, Edgbaston (2005)
 
 Employment
 ----------
-### Featurespace Ltd (October 2011 to date)
+
+### SunGard Adaptiv (September 2012 to date)
+
+### Featurespace Ltd (October 2011 to 2012)
 
 * Analyst Developer at predictive analytics startup.
 * Consulting work developing churn and cross-sell models for retailers.
@@ -56,8 +41,27 @@ Employment
 * Developed components of the tool itself including GUI input and error checking, learning Visual Basic.
 * Wrote a report reviewing the previous tools released by the department and advocating the new tool.
 
-Additional skills
+Education
+---------
+### Trinity College, Cambridge University (2007 to 2011)
+
+* Mathematical Tripos Part III, MMath (2011)
+* Mathematical Tripos Part II,  class 2:1. Senior Scholar (2010)
+* Mathematical Tripos Part IB,  1st class. Senior Scholar (2009)
+* Mathematical Tripos Part IA,  1st class. Junior Scholar (2008)
+
+### John Mason School, Abingdon (2000 to 2007)
+
+* Four A-levels grade A in Maths, Further Maths, Physics and Chemistry (2007), and AS-level French grade C (2006)
+* Two S (outstanding) grades in STEP (Sixth-Term Examination Paper) Mathematics II and III (2007)
+* 12 GCSEs achieving 8 grade A* and 4 grade A (2005)
+* 11 gold certificates in UKMT (United Kingdom Mathematical Trust) Maths Challenges (2000-2007), competed in British Mathematical Olympiad
+* Attended by invitation the UKMT National Mathematics Summer School at Queen’s College, Edgbaston (2005)
+
+
+Skills
 ---------------
+
 ### Programming
 
 * Competed in Google Code Jam—an international programming competition focusing on algorithms—in 2009, 2010 and 2011, most recently finishing in the top 10%.
@@ -76,13 +80,3 @@ Additional skills
 
 * Gold (2008), Silver and Bronze. Expeditions in the Lake District and the Isle of Arran.
 
-Activities and interests
------------
-* Ballroom dancing since 2010, represented Cambridge University Beginners’ Dancesport Team at competitions in Nottingham and Blackpool.
-* Member of Trinity Mathematical Society—represented undergraduates against teaching staff in games of _Mathematical Call My Bluff_ (2007 & 2009).
-* Pianist and guitarist.
-
-Referees
------
-1. Professor Grae Worster, my tutor at Trinity College, Cambridge. <side.e@trin.cam.ac.uk>
-2. Dr Yoav Git, my supervisor at Winton Capital Management. Contact details on request.

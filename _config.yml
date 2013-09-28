@@ -1,7 +1,3 @@
-markdown: maruku
-# markdown: redcarpet
+name: Matt Hickford
+markdown: redcarpet
 pygments: true
-
-#redcarpet:
-#    extensions: [autolink]
-
