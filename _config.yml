@@ -1,6 +1,11 @@
 name: Matt Hickford
 markdown: redcarpet
+
 pygments: true
 
 exclude: ["vendor", "config.ru", "Procfile", "Rakefile", "Gemfile", "Gemfile.lock"]
-# per https://github.com/mattmanning/heroku-buildpack-ruby-jekyll/pull/7#issuecomment-17722748
+# vendor because https://github.com/mattmanning/heroku-buildpack-ruby-jekyll/pull/7#issuecomment-17722748
+
+redcarpet:
+  extensions: ['autolink']
+

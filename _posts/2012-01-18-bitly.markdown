@@ -9,13 +9,13 @@ URL shorteners are web services that let you shorten URLs by removing useful inf
 
 Here's a wonderful satire <http://www.shadyurl.com/> that outputs such wonderful short URLs as <http://5z8.info/malicious-cookie_d5d2_hateminorities>
 
-Popular URL shorteners include `tinyurl.com` and `bit.ly`. I wrote to Bitly to ask them how long I can trust their service to last:
+Popular URL shorteners include [tinyurl.com](http://tinyurl.com) and [bit.ly](<http://bit.ly>). I wrote to Bitly to ask them how long I can trust their service to last:
 
 >Hello Bitly! I'm excited to tell you I just made my first bitly links :) They redirect to some news stories on the BBC's website published in 1997 and 1998:
 >
-> * Clinton impeached  http://bbc.in/k7Kc2I  http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.stm
-> * Taleban in Texas for talks on gas pipeline  http://bbc.in/5UM5z  http://news.bbc.co.uk/1/hi/world/west_asia/37021.stm
-> * 'God of the Internet' is dead  http://bbc.in/kuHjXr  http://news.bbc.co.uk/1/hi/sci/tech/196487.stm
+> * [Clinton impeached](http://news.bbc.co.uk/1/hi/events/clinton_under_fire/latest_news/238784.stm) <http://bbc.in/k7Kc2I>
+> * [Taleban in Texas for talks on gas pipeline](http://news.bbc.co.uk/1/hi/world/west_asia/37021.stm) <http://bbc.in/5UM5z>
+> * ['God of the Internet' is dead](http://news.bbc.co.uk/1/hi/sci/tech/196487.stm) <http://bbc.in/kuHjXr>
 >
 >Certainly the bitly links are snappy. But I must ask, how long will they last? The BBC have maintained those new stories at those exact URLs for fourteen years. I trust them to maintain their content for at least another fourteen years. Will my bitly links still redirect in 2025?
 >
