@@ -26,19 +26,13 @@ You can understand that without reading any [Python documentation][2].
  
 Inspired, and using C# 4’s [optional parameters][3], I wrote the missing method:
  
-    // <summary>
-    // Returns a Timespan initialized to the specified number of weeks, days, hours, minutes, seconds, and milliseconds.
-    // </summary>
-    public static TimeSpan TimeDelta(int weeks=0, int days=0, int hours=0, int minutes=0, int seconds=0, int milliseconds=0)
-    {
-        return new TimeSpan(weeks*7+days,hours,minutes,seconds,milliseconds);
-    }
- 
+{% gist 2004019 timedelta.cs %}
+
 Now we can write the instantly readable:
  
     TimeDelta(hours:1,minutes:30)
  
-That makes me very happy. You can copy my code, or clone it from [this gist](https://gist.github.com/2004019).
+That makes me very happy. Help yourself to this code.
  
 [1]: http://msdn.microsoft.com/en-us/library/system.timespan.aspx
 [2]: http://docs.python.org/library/datetime.html#timedelta-objects
