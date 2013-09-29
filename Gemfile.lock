@@ -29,8 +29,6 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
     rack (1.5.2)
-    rack-contrib (1.1.0)
-      rack (>= 0.9.1)
     redcarpet (2.3.0)
     safe_yaml (0.7.1)
     syntax (1.0.0)
@@ -43,5 +41,4 @@ DEPENDENCIES
   jekyll
   puma
   rack
-  rack-contrib
   redcarpet
