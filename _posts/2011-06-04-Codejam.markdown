@@ -5,37 +5,6 @@ comments: true
 category: codejam
 ---
 
-This year I competed again in Google Code Jam, a mathematics and algorithms competition. I finished ranking 930, winning a t-shirt. Thanks Google!
+[Google Code Jam](https://code.google.com/codejam/) is an algorithms competition. Contestants design and implement algorithms to solve interesting problems. This year I finished [ranking 930](https://code.google.com/codejam/contest/1150486/scoreboard?c=1150486#sp=926), winning a t-shirt. Thanks Google!
 
-This was my favourite problem to solve <http://code.google.com/codejam/contest/dashboard?c=1150486#s=p2>
-
-Here are my solutions <https://github.com/matt-hickford/codejam>
-
-Here's an extract from [my solution](https://github.com/matt-hickford/codejam/blob/master/2011/0/bots/bots.py
-) for the problem [Bot Trust](http://code.google.com/codejam/contest/dashboard?c=975485#)
-
-{% highlight python linesnos=table %}
-
-for i in range(1,T+1):
-    freesince = dict(O=0,B=0)
-    position = dict(O=1,B=1)
-    line = deque(f.readline().split())
-    N = int(line.popleft())
-    
-    clock = 0
-    
-    while line:
-        bot, target = line.popleft(), int(line.popleft())
-        d = abs(target-position[bot])
-        
-        # move
-        clock += max(0, d - (clock - freesince[bot]) )
-        position[bot] = target
-
-        # push button
-        clock += 1
-        freesince[bot] = clock
-        
-    print "Case #%d: %s" % (i,clock)
-    
-{% endhighlight %}
+My favourite problem to solve was [*Expensive Dinner*](http://code.google.com/codejam/contest/dashboard?c=1150486#s=p2). [My solution to it](https://github.com/matt-hickford/codejam/blob/master/2011/2/dinner/dinner.py) and other problems are shared on GitHub at <https://github.com/matt-hickford/codejam>

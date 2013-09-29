@@ -9,7 +9,7 @@ The curiously-named [Reactive Extensions](http://msdn.microsoft.com/en-us/data/g
 
 > The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators. Using Rx, developers represent asynchronous data streams with Observables, query asynchronous data streams using LINQ operators, and parameterize the concurrency in the asynchronous data streams using Schedulers. Simply put, Rx = Observables + LINQ + Schedulers.
 
-For example, once you have an Observable, that is, a stream of events, you can query it with LINQ extension methods:
+For example, once you have an Observable, that is, a stream of events, you can query it with LINQ extension methods (these return new streams):
 
     stream.Where(condition)
     stream.GroupBy(selector)
@@ -25,7 +25,9 @@ Before Reactive Extensions I solved this with a complicated system of .NET Timer
 
 With Reactive Extensions, the solution is much simpler. There isn't a function in the standard library that does what I want, but the functions `Window`, `Throttle` and `Delay` are enough to define it.
 
-I'm sharing this because there a [few](http://stackoverflow.com/questions/7597773/does-reactive-extensions-support-rolling-buffers/9791385#9791385) [posts](http://stackoverflow.com/questions/8849810/reactive-throttle-returning-all-items-added-within-the-timespan/9791918#9791918) on Stack Overflow looking to solve the same problem. Names differ - rolling buffers, buffer with inactivity, sliding buffers. I call my method _buffer until calm_.
+I'm sharing this because there a [few](http://stackoverflow.com/questions/7597773/does-reactive-extensions-support-rolling-buffers/9791385#9791385) [posts](http://stackoverflow.com/questions/8849810/reactive-throttle-returning-all-items-added-within-the-timespan/9791918#9791918) on Stack Overflow looking to solve the same problem. Names differ - rolling buffers, buffer with inactivity, sliding buffers. I call my method _buffer until calm_. Help yourself to it.
+
+{% gist 2277055 %}
 
     public static class ObservableExtensions
     {
@@ -53,4 +55,3 @@ I'm sharing this because there a [few](http://stackoverflow.com/questions/759777
         }
     }
     
-You can copy my code, or clone it from [this gist](https://gist.github.com/2277055)

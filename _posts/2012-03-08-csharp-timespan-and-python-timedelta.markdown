@@ -26,15 +26,12 @@ You can understand that without reading any [Python documentation][2].
  
 Inspired, and using C# 4’s [optional parameters][3], I wrote the missing method:
  
-    public static class TimeSpanExtensions
+    // <summary>
+    // Returns a Timespan initialized to the specified number of weeks, days, hours, minutes, seconds, and milliseconds.
+    // </summary>
+    public static TimeSpan TimeDelta(int weeks=0, int days=0, int hours=0, int minutes=0, int seconds=0, int milliseconds=0)
     {
-        // <summary>
-        // Returns a Timespan initialized to the specified number of weeks, days, hours, minutes, seconds, and milliseconds.
-        // </summary>
-        public static TimeSpan TimeDelta(int weeks=0, int days=0, int hours=0, int minutes=0, int seconds=0, int milliseconds=0)
-        {
-            return new TimeSpan(weeks*7+days,hours,minutes,seconds,milliseconds);
-        }
+        return new TimeSpan(weeks*7+days,hours,minutes,seconds,milliseconds);
     }
  
 Now we can write the instantly readable:
