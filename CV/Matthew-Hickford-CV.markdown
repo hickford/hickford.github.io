@@ -1,4 +1,4 @@
-﻿Matthew Hickford
+Matthew Hickford
 ================
 
 Email: <matt.hickford@gmail.com>  
@@ -8,6 +8,10 @@ Employment
 ----------
 
 ### SunGard Adaptiv (September 2012 to date)
+
+* User interface developer. Added new features, fixed bugs, significantly improved performance.
+* Stand-ups and code reviews in team of nine.
+* Presented progress to product managers at regular sprint reviews.
 
 ### Featurespace Ltd (October 2011 to 2012)
 
