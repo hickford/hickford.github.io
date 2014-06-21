@@ -1,4 +1,4 @@
-My personal homepage with blog and CV hosted at <http://matt-hickford.github.io> and <https://brown-bread-ice-cream.herokuapp.com/>
+My personal homepage with blog and CV hosted at <http://hickford.github.io> and <https://brown-bread-ice-cream.herokuapp.com/>
 
 Handy links for me maintaining the blog:
 
