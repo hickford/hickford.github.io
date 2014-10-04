@@ -3,7 +3,7 @@ markdown: redcarpet
 
 pygments: true
 
-exclude: ["vendor", "config.ru", "Procfile", "Rakefile", "Gemfile", "Gemfile.lock"]
+exclude: ["vendor", "config.ru", "Procfile", "Rakefile", "Gemfile", "Gemfile.lock", "divshot.json"]
 # vendor because https://github.com/mattmanning/heroku-buildpack-ruby-jekyll/pull/7#issuecomment-17722748
 
 redcarpet:
