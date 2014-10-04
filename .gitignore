@@ -1,3 +1,4 @@
-_posts/drafts
+_drafts/
 _site/
 .divshot-cache/
+.sass-cache/
