@@ -7,4 +7,4 @@ category: codejam
 
 [Google Code Jam](https://code.google.com/codejam/) is an algorithms competition. Contestants design and implement algorithms to solve interesting problems. This year I finished [ranking 930](https://code.google.com/codejam/contest/1150486/scoreboard?c=1150486#sp=926), winning a t-shirt. Thanks Google!
 
-My favourite problem to solve was [*Expensive Dinner*](http://code.google.com/codejam/contest/dashboard?c=1150486#s=p2). [My solution to it](https://github.com/matt-hickford/codejam/blob/master/2011/2/dinner/dinner.py) and other problems are shared on GitHub at <https://github.com/matt-hickford/codejam>
+My favourite problem to solve was [*Expensive Dinner*](http://code.google.com/codejam/contest/dashboard?c=1150486#s=p2). [My solution to it](https://github.com/hickford/codejam/blob/master/2011/2/dinner/dinner.py) and other problems are shared on GitHub at <https://github.com/hickford/codejam>
