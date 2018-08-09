@@ -7,9 +7,9 @@ Location: Cambridge, UK
 Employment
 ----------
 
-### SunGard Adaptiv (September 2012 to date)
+### FIS (formerly SunGard) (September 2012 to date)
 
-* User interface developer. Added new features, fixed bugs, significantly improved performance.
+* Improved responsiveness of desktop application 
 * Stand-ups and code reviews in team of nine.
 * Presented progress to product managers at regular sprint reviews.
 
@@ -45,6 +45,11 @@ Employment
 * Developed components of the tool itself including GUI input and error checking, learning Visual Basic.
 * Wrote a report reviewing the previous tools released by the department and advocating the new tool.
 
+Languages
+---------
+
+* Taught myself Spanish since 2017. Enjoy conversation and reading young adult fiction.
+
 Education
 ---------
 ### Trinity College, Cambridge University (2007 to 2011)
@@ -62,17 +67,14 @@ Education
 * 11 gold certificates in UKMT (United Kingdom Mathematical Trust) Maths Challenges (2000-2007), competed in British Mathematical Olympiad
 * Attended by invitation the UKMT National Mathematics Summer School at Queen’s College, Edgbaston (2005)
 
-
 Skills
 ---------------
 
 ### Programming
 
+* 7 years professional experience in C#
 * Competed in Google Code Jam—an international programming competition focusing on algorithms—in 2009, 2010 and 2011, most recently finishing in the top 10%.
-* Experience developing in C#, Java and Visual Basic at Featurespace, IBM and Health Projection Agency.
 * Computational mathematics projects in second and third year of degree in Python.
-* Created desktop and web applications in Python and Ruby.
-* Contributed solutions to the mathematical puzzle websites IBM Ponder This and Project Euler.
 
 ### Teaching
 
@@ -83,4 +85,3 @@ Skills
 ### Duke of Edinburgh's awards
 
 * Gold (2008), Silver and Bronze. Expeditions in the Lake District and the Isle of Arran.
-
